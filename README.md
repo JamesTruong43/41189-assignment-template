@@ -10,4 +10,4 @@ Instructions:
 - Final submission on Week 12 is for all 7 sections of the report
 - Detailed instructions on the assignment can be found [here](https://docs.google.com/document/d/1CACNZrnxHwKRV9D2BBFyFUGUoG3DUYb1kzPRG8lriHk/edit?usp=sharing)
 
-![richpic](https://user-images.githubusercontent.com/68889400/97862084-df8fc180-1d58-11eb-96d0-f24c0d71c96b.png)
+
